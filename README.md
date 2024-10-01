@@ -1,1 +1,2 @@
 # Credit_Card_Fraud_Detection
+This is an example of how machine learning can be used to detect bank fraud. The dataset contains transactions made with credit cards in September 2013 by European cardholders. This dataset includes transactions that occurred over two days, with 492 fraud cases out of 284,807 transactions. The dataset is highly imbalanced: the positive class (frauds) represents 0.172% of all transactions. For this reason, Undersampling and Oversampling were used to balance the dataset, achieving better results with Oversampling.
